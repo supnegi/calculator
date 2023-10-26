@@ -1,0 +1,25 @@
+body {
+  background-color: #1c1c1c;
+}
+
+.mainForm {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+}
+
+.show {
+  color: #d4d4d2;
+  font-size: 40px;
+}
+
+.button {
+  border-radius: 50%;
+  background-color: #505050;
+  color: #d4d4d2;
+  padding: 20px;
+  font-size: 25px;
+  border-style: none;
+}
